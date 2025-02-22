@@ -1,0 +1,6 @@
+.idea
+.vscode
+logs
+target
+appium.log
+.DS_Store
